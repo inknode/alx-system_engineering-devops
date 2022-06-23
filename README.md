@@ -1,1 +1,1 @@
-Simple Bash scripts
+Shell permissions
